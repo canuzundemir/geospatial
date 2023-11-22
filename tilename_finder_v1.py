@@ -8,7 +8,7 @@ Created on Wed Nov  8 12:06:25 2023
 import boto3
 import csv
 
-s3 = boto3.client('s3', aws_access_key_id='AKIA5YDRE6HIULNGBRQ3', aws_secret_access_key='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')
+s3 = boto3.client('s3', aws_access_key_id='AK*******', aws_secret_access_key='IQW*****')
 bucket_name = 'doktar-classification'
 folder_path = 'Turkey/2023/'
 

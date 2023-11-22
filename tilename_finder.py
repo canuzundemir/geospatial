@@ -9,7 +9,7 @@ import boto3
 import os
 
 
-s3 = boto3.client('s3', aws_access_key_id='AKIA5YDRE6HIULNGBRQ3', aws_secret_access_key='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')
+s3 = boto3.client('s3', aws_access_key_id='AKI*****', aws_secret_access_key='IQW****')
 
 
 bucket_name = 'doktar-classification'
